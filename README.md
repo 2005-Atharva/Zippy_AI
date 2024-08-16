@@ -1,16 +1,31 @@
-# user_auth_try7
+🧠 AI Chat App with Image Analysis 
 
-A new Flutter project.
+This project is an AI chat app built with Flutter and Gemini API, similar to GPT. You can ask anything, and even send images to the app to get insights from GPT!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+🚀 Features
+- AI Chat: Chat with the AI and get answers to your questions.
+- Image Analysis: Upload an image and ask questions about it.
+- Beautiful UI: The app has a smooth and visually appealing UI.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📸 Screenshots
+![Screenshot 2024-08-16 214709](https://github.com/user-attachments/assets/62f532c2-2bef-4b8a-a3f4-7745b1430eb8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+🤖 How It Works
+- Chat with AI: Type your message and send it. The AI responds in real-time.
+- Image Upload: Use the image picker to upload an image. The AI will analyze it and provide insights.
+
+
+🔗 LinkedIn Post
+Check out the LinkedIn post about this project:
+
+
+📦 Packages Used
+- firebase_core: ^2.24.2 - Firebase core setup.
+- flutter_gemini: ^2.0.5 - The Gemini API for AI chat functionality.
+- image_picker: ^1.1.2 - For selecting images from the device.
+- dash_chat_2: ^0.0.21 - Chat UI components.
+- google_fonts - For custom fonts in the app.
+- flutter_launcher_icons: ^0.13.1 - To customize the app launcher icon.

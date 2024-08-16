@@ -20,7 +20,7 @@ This project is an AI chat app built with Flutter and Gemini API, similar to GPT
 
 
 🔗 LinkedIn Post
-Check out the LinkedIn post about this project:
+Check out the LinkedIn post about this project: https://www.linkedin.com/feed/update/urn:li:activity:7230291578248941569?utm_source=share&utm_medium=member_desktop
 
 
 📦 Packages Used

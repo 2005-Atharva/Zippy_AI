@@ -10,7 +10,8 @@ This project is an AI chat app built with Flutter and Gemini API, similar to GPT
 
 
 📸 Screenshots
-![Screenshot 2024-08-16 214709](https://github.com/user-attachments/assets/62f532c2-2bef-4b8a-a3f4-7745b1430eb8)
+![Screenshot 2024-08-16 214709](https://github.com/user-attachments/assets/80ce80de-5091-4b39-92cb-51b18a24d61d)
+
 
 
 🤖 How It Works

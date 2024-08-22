@@ -1,6 +1,6 @@
-🧠 AI Chat App with Image Analysis 
+## 🧠 AI Chat App with Image Analysis 
 
-This project is an AI chat app built with Flutter and Gemini API, similar to GPT. You can ask anything, and even send images to the app to get insights from GPT!
+# This project is an AI chat app built with Flutter and Gemini API, similar to GPT. You can ask anything, and even send images to the app to get insights from GPT!
 
 
 🚀 Features
